@@ -12,4 +12,4 @@ Key Features:
 #Research Question
 "To what extent do data balancing techniques, including class weighting and sampling methods, improve the performance of logistic regression, random forest, LightGBM, and XGBoost models in predicting credit default within imbalanced financial datasets, and which approach optimally balances recall against precision?"
 
-Please see full final report 
+Please see full final report in "report" folder. 
